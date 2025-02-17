@@ -1,0 +1,18 @@
+.box-mod{
+    width: 200px;
+    height: 150px;
+    padding: 15px;
+    border:10px dotted darkblue;
+    margin: 10px;
+}
+.override{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 26px;
+    color: blueviolet; 
+}
+
+.footer{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: black;
+    background-color: forestgreen;
+}
