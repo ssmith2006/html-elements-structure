@@ -5,6 +5,15 @@
     border:10px dotted darkblue;
     margin: 10px;
 }
+
+.flex{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.list-style{
+    list-style: none;
+}
 .override{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 26px;
